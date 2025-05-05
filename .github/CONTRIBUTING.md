@@ -1,4 +1,4 @@
-# Contributing to Soenneker.Utils.AutoBogus.NSubstitute
+﻿# Contributing to Soenneker.Utils.AutoBogus.NSubstitute
 
 We're excited that you're interested in contributing!
 
