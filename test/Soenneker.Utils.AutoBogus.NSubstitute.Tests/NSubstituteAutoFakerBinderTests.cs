@@ -1,5 +1,5 @@
 using Bogus;
-using FluentAssertions;
+using AwesomeAssertions;
 using Soenneker.Tests.FixturedUnit;
 using Soenneker.Utils.AutoBogus.NSubstitute.Tests.Dtos;
 using Xunit;
