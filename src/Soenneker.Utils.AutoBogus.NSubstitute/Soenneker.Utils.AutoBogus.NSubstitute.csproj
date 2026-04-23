@@ -48,6 +48,6 @@
 
     <ItemGroup>
         <PackageReference Include="NSubstitute" Version="5.3.0" />
-        <PackageReference Include="Soenneker.Utils.AutoBogus" Version="4.0.893" />
+        <PackageReference Include="Soenneker.Utils.AutoBogus" Version="4.0.894" />
     </ItemGroup>
 </Project>
